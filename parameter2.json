@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name-of-storage-account": {
-            "value": "edwenstorageaccount1234"
+            "value": "peterstorageaccount1894"
         }
     }
 }
